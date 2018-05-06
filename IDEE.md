@@ -1,6 +1,6 @@
 # OpenSource Tiny House
 Die Idee ist ein Tiny House mit fertigem und freien Bauplan, das von 2 Personen bewohnt werden kann und mobil ist.
-Ein Tiny House (winziges Haus) ist meistens zwischen 5 und 25qm groß und sehr minimalistisch eingerichtet. Oft, aber nicht immer, sind die Häuser auf Anhängern und so mobil wie ein Wohnmobil. 
+Ein Tiny House (winziges Haus) ist meistens zwischen 5 und 25qm groß (dieses soll als einzelnes Modul ca. 17qm groß sein) und sehr minimalistisch eingerichtet. Oft, aber nicht immer, sind die Häuser auf Anhängern und so mobil wie ein Wohnmobil. 
 
 ## Grundüberlegung
 Tiny House sollte 
