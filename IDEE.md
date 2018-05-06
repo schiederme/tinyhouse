@@ -19,11 +19,12 @@ Was braucht man
 - Internet (\o/)
 
 Grundgerüst
-- Wechselbrücke
-  - Stahl gerüst (bilden ein Quadrat)
-  - Holzverkleidung von außen und gedämt
-  - Innen Holzverkleidung
-  - Wandabtrennung für Badezimmerchen
+- Wechselbrücke C750 (7450 mm lang, 2480 mm breit)
+  - Aufbau aus Stahl (ein simples Quadrat (nur kanten))
+    - Stahl gerüst (bilden ein Quadrat)
+    - Holzverkleidung von außen und gedämt
+    - Innen Holzverkleidung
+    - Wandabtrennung für Badezimmerchen
 
   Vorteil Wechselbrücke -> Genormt und leicht transportierbar (auch ohne Kran)
   Nachteil Wechselbrücke -> Max gewicht mit möbeln 16 Tonnen (aufbau nicht mehr als 13 Tonnen, sollte nicht mehr als 4)
