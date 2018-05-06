@@ -19,9 +19,11 @@ Was braucht man
 - Internet (\o/)
 
 Grundgerüst
-- Container?
-- Wechselbrücke?
+- Wechselbrücke
+  - Stahl gerüst (bilden ein Quadrat)
+  - Holzverkleidung von außen und gedämt
+  - Innen Holzverkleidung
+  - Wandabtrennung für Badezimmerchen
 
-Vorteil Container -> 'fertige' wände
-
-Vorteil Wechselbrücke -> viel umbau möglich
+  Vorteil Wechselbrücke -> Genormt und leicht transportierbar (auch ohne Kran)
+  Nachteil Wechselbrücke -> Max gewicht mit möbeln 16 Tonnen (aufbau nicht mehr als 13 Tonnen, sollte nicht mehr als 4)
