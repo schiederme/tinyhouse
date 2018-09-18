@@ -36,3 +36,8 @@ Grundgerüst
 
   Vorteil Wechselbrücke -> Genormt und leicht transportierbar (auch ohne Kran)
   Nachteil Wechselbrücke -> Max gewicht mit möbeln 16 Tonnen (aufbau nicht mehr als 13 Tonnen, sollte nicht mehr als 4)
+  
+  Dämmung:
+    z.B. https://www.thermo-natur.de/daemmstoffe/thermo-jute/
+    
+  
