@@ -6,8 +6,8 @@ Ein Tiny House (winziges Haus) ist meistens zwischen 5 und 25qm groß (dieses hi
 Tiny House sollte 
 - so günstig wie möglichsein (10k€-12k€ ~ 400€/M über 3 Jahre)
 - so mobil wie möglich
-- Umweltfreundlich
-- Modern 
+- umweltfreundlich
+- modern 
 
 Was braucht man
 - Badezimmer
@@ -41,7 +41,7 @@ Am ende sollen 3 räume vorhanden sein
  Natürlich müssen die Kosten kalkuliert werden. Hierzu dient ein exemplarisches Haus mit ca. 30qm + Terasse mit ca. 10qm.
  
  ### Skizze
- (Muss noch Digitalisiert werden=
+ (Muss noch Digitalisiert werden)
  
  ### Kosten
  (Wird nach der Skizze berechnet und soll unter bzw. um 500€/qm liegen)
