@@ -4,7 +4,7 @@ Ein Tiny House (winziges Haus) ist meistens zwischen 5 und 25qm groß (dieses hi
 
 ## Grundüberlegung
 Tiny House sollte 
-- so günstig wie möglichsein (10k€-12k€ ~ 400€/M über 3 Jahre)
+- so günstig wie möglich sein (10k€-12k€ ~ 400€/M über 3 Jahre)
 - so mobil wie möglich
 - umweltfreundlich
 - modern 
