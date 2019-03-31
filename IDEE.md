@@ -4,14 +4,14 @@ Ein Tiny House (winziges Haus) ist meistens zwischen 5 und 25qm groß (dieses hi
 
 ## Grundüberlegung
 Tiny House sollte 
-- so günstig wie möglich sein (10k€-12k€ ~ 400€/M über 3 Jahre)
+- so günstig wie möglich sein
 - so mobil wie möglich
 - umweltfreundlich
 - modern 
 
 Was braucht man
 - Badezimmer
-- Küche
+- Küchenzeile
 - Bett
 - Stauraum
 - Wohn- / Arbeitsplatz (Sofa und/oder andere Sitzgelegenheiten und Schreibtisch)
@@ -20,7 +20,7 @@ Was braucht man
 - Wasser- und Abwasseranschluss
 
 ## Grundaufbau
-Am ende sollen 3 räume vorhanden sein
+Am ende sollen 3 "räume" vorhanden sein
   - Badezimmer
     - Dusche
     - WC
@@ -38,12 +38,15 @@ Am ende sollen 3 räume vorhanden sein
  Eine Terasse ist für ein kleines Haus ein muss. Diese soll in den Eingangsbereich intergriert werden.
  
  ## Bauplan und Kostenrechnung
- Natürlich müssen die Kosten kalkuliert werden. Hierzu dient ein exemplarisches Haus mit ca. 30qm + Terasse mit ca. 10qm.
+ Natürlich müssen die Kosten kalkuliert werden. Hierzu dient ein exemplarisches Haus mit ca. 15qm + Terasse mit ca. 10qm.
  
  ### Skizze
  (Muss noch Digitalisiert werden)
  
  ### Kosten
- (Wird nach der Skizze berechnet und soll unter bzw. um 500€/qm liegen)
+ - Wechselbrücke ca. 2500€ gebraucht
+ 
+ ---
+ Ca. 7500€
  
  
